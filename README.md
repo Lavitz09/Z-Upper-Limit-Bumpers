@@ -13,3 +13,5 @@ Bumpers should stop the Gantry by holding plastic part clamping the belt in plac
 Im using Panzer Chains along with a spacing of 60mm
 
 Spacing is from the bottom of the top extrusion to the top of the bumpers
+
+![alt text](https://github.com/Lavitz09/Z-Upper-Limit-Bumpers/blob/main/Bumper.jpg)
