@@ -1,6 +1,4 @@
-# Z-Upper-Limit-Bumpers
-
-For Voron 2.4
+# Z-Upper-Limit-Bumpers - For Voron 2.4
 
 TPU safety Bumpers for max height before Cable Chain tops out
 
