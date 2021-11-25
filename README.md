@@ -2,6 +2,8 @@
 
 For Voron 2.4 extra safety measures
 
+Print in TPU, center hole needs to be punched/drilled out after print.
+
 Install TPU safety Bumpers for max height before Cable Chain tops out
 
 Bumpers should stop the Gantry by holding plastic part holding the belt in place
